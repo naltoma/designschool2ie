@@ -7,7 +7,8 @@
   - 個別に具体的状況を解説しながら張り付け。
   - 適宜配置調整しつつ付箋解釈調整。
   - グルーピング。
-  - [グルーピング結果](https://github.com/naltoma/designschool2ie/tree/master/2014-12-17)
+  - [グルーピング結果（写真一覧）](https://github.com/naltoma/designschool2ie/tree/master/2014-12-17)、
+  - [グルーピング結果（テキスト）](https://github.com/naltoma/designschool2ie/tree/master/2014-12-17/item.md)、
  - 1人5票投票による絞り込み。
   - 選出候補
    - 強制力: 多様性のある場を作る
