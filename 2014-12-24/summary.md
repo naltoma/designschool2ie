@@ -7,6 +7,7 @@
  - ペルソナ法
   - 例1: [ペルソナ法](http://uxxinspiration.com/2014/03/persona/)
   - 例2: [ターゲットとペルソナの違い](http://ohako-inc.jp/uiux-japan/ohako-uiux/201408-persona-design.html)
+  - 例3: [仮想ファシリテーター例](https://github.com/naltoma/designschool2ie/blob/master/2014-12-24/persona-design.pptx)
  - [用意したシートPDF](https://github.com/naltoma/designschool2ie/blob/master/2014-12-24/persona-design.pdf)
   - 今回は「ユーザのニーズ」を捉えるためのペルソナではなく、「達成目標」を捉えるためのペルソナを作成。（のはずが、1参加者のケースも産出。今後「グループワーク」の参加者像として利用可能か）
   - ペルソナ・シートは「名前／発言例／行動例」について具体的な状況をストーリー形式で作成。
