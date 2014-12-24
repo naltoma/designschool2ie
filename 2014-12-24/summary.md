@@ -4,8 +4,17 @@
 - 目的
  - 「ファシリテーター」が持つスキルを検討するために、デザインスクールでの体験や仮想ユーザを想定してペルソナを作成。作成したペルソナを話のタネに、どういう状況で何を目的としてどういう行動が産出されるか、参加者にはどういう属性があるのかを自由討論。
 - 実施方法
- - ペルソナ法: [シートPDF](https://github.com/naltoma/designschool2ie/blob/master/2014-12-24/persona-design.pdf)
+ - ペルソナ法
+  - 例1: [ペルソナ法](http://uxxinspiration.com/2014/03/persona/)
+  - 例2: [ターゲットとペルソナの違い](http://ohako-inc.jp/uiux-japan/ohako-uiux/201408-persona-design.html)
+ - [用意したシートPDF](https://github.com/naltoma/designschool2ie/blob/master/2014-12-24/persona-design.pdf)
+  - 今回は「ユーザのニーズ」を捉えるためのペルソナではなく、「達成目標」を捉えるためのペルソナを作成。（のはずが、1参加者のケースも産出。今後「グループワーク」の参加者像として利用可能か）
+  - ペルソナ・シートは「名前／発言例／行動例」について具体的な状況をストーリー形式で作成。
 - アウトプット
  - [個別作成結果PDF](https://github.com/naltoma/designschool2ie/blob/master/2014-12-24/personas.pdf)
  - 討論結果: 準備中。
-
+- 備忘録
+ - 初めての人が15分+αぐらいでペルソナ作り上げるのはキツい。
+ - 事前説明するにしても討論までやりたいので90分でやるのは厳しいか。
+ - 素直にペルソナ作成自体をグループワークでやるのも手。
+ - 複数ペルソナを俯瞰して討論する時間を別途用意すべきかも。
